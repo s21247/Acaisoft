@@ -1,6 +1,6 @@
 ## Zadanie do firmy acaisoft
 
- Create simple react project
+ Create simple react project <br/>
  Create two routes, one simple list with Rick and morty characters, second with liked characters
  Connect to graphql API (https://rickandmortyapi.com/graphql)
  On list route display a list with characters info (image, name, species, gender)
