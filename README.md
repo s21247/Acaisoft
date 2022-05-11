@@ -1,4 +1,5 @@
 ## Zadanie do firmy acaisoft
+### Stack technologiczny: React 17 Graphql MaterialUI
 
  Create simple react project <br/>
  Create two routes, one simple list with Rick and morty characters, second with liked characters <br/>
@@ -14,3 +15,5 @@
  Create custom hooks to like/dislike functionality <br/>
  Remember about good coding and UX practices <br/>
  Layout is up to you <br/>
+ 
+ 
