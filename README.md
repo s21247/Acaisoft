@@ -1,4 +1,4 @@
-##Zadanie do firmy acaisoft
+## Zadanie do firmy acaisoft
 
  Create simple react project
  Create two routes, one simple list with Rick and morty characters, second with liked characters
